@@ -189,7 +189,7 @@
         <img src="c37150c7-4ff9-41ba-9eea-0ad89ea59d91.jpg" alt="Shoe 19"width="500" height="500">
         <h2>Shoe 19</h2>
         <p>Description of Shoe 19.</p>
-        <p class="price">15000FCFA contact:696398746</p>
+        <p class="price">14900FCFA contact:696398746</p>
         <button class="add-to-cart">Add to Cart</button>
       </article>
       <article>
